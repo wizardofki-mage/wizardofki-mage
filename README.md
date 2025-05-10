@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on an LC-3 assembly language program to average five exam scores and display the minimum, maximum, average score, and their corresponding letter grade.
+I'm currently learning C++ (computer science I) and assembly language courses.
+I took Java-based computer science I and II several years ago, and about a year of information systems (Web development and structured programming).
+I also took a digital circuits course several years ago.
+Fun Fact: I compiled a Linux from Scratch system. I have also compiled a custom Linux kernel a couple of times. I compiled my own Berkeley BOINC on Linux to get it to do GPU computing to contribute to scientific distributed computing projects such as PrimeGrid. I also compiled the open-source game LordsAWar on Linux.
