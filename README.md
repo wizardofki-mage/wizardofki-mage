@@ -19,4 +19,4 @@ I'm currently working on an LC-3 assembly language program to average five exam 
 I'm currently learning C++ (computer science I) and assembly language courses.
 I took Java-based computer science I and II several years ago, and about a year of information systems (Web development and structured programming).
 I also took a digital circuits course several years ago.
-Fun Fact: I compiled a Linux from Scratch system. I have also compiled a custom Linux kernel a couple of times. I compiled my own Berkeley BOINC on Linux to get it to do GPU computing to contribute to scientific distributed computing projects such as PrimeGrid. I also compiled the open-source game LordsAWar on Linux.
+Fun Fact: I compiled a Linux from Scratch version 6.4 (except for a GUI) and Gentoo Linux. I have also compiled a custom Linux kernel a couple of times. I compiled my own Berkeley BOINC on Linux to get it to do GPU computing to contribute to scientific distributed computing projects such as PrimeGrid. I ran my own, personal Linux Samba file server at home for 11 years. I also compiled the open-source game LordsAWar on Linux.
