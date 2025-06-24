@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on an LC-3 assembly language program to average five exam scores and display the minimum, maximum, average score, and their corresponding letter grade.
 I'm currently learning C++ (computer science I) and assembly language courses.
 I took Java-based computer science I and II several years ago, and about a year of information systems (Web development and structured programming).
 I also took a digital circuits course several years ago.
+I'm currently working on a Pong game based on the tutorial in the book Beginning C++ Game Programming by John Horton. I just completed a game, Rapunzel, based on the first tutorial in this book for a game called Timber!
+For Computer Architecture and Organization: Assembly, I completed an LC-3 assembly language program to average five exam scores and display the minimum, maximum, average score, and their corresponding letter grade.
 Fun Fact: I compiled a Linux from Scratch version 6.4 (except for a GUI) and Gentoo Linux. I have also compiled a custom Linux kernel a couple of times. I compiled my own Berkeley BOINC on Linux to get it to do GPU computing to contribute to scientific distributed computing projects such as PrimeGrid. I ran my own, personal Linux Samba file server at home for 11 years. I also compiled the open-source game LordsAWar on Linux.
