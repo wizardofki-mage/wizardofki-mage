@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning C++ (Computer Science I and II ), discrete structures, and assembly language courses.
+I'm currently pursuing an Associate's degree in Computer Science to transfer to a four-year university. Courses I have taken include Programming Concepts and Methodology in C++ I and II, as well as assembly language. I am nearing the completion of my discrete structures course.
 As part of my degree path, I'm also taking a lot of math, and I'm currently enrolled in Calculus I.
 I took Java-based computer science I and II several years ago, and about a year of information systems (Web development and structured programming).
 I also took a digital circuits course several years ago.
