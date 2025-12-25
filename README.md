@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently pursuing an Associate's degree in Computer Science to transfer to a four-year university. Courses I have taken include Programming Concepts and Methodology in C++ I and II, as well as assembly language. I am nearing the completion of my discrete structures course.
-As part of my degree path, I'm also taking a lot of math, and I'm currently enrolled in Calculus I.
+I'm currently pursuing an Associate's degree in Computer Science to transfer to a four-year university. Courses I have taken include Programming Concepts and Methodology in C++ I and II, assembly language, and discrete structures.
+As part of my degree path, I'm also taking a lot of math, and I just earned an 'A' in Calculus I.
+I'm detail-oriented, accurate, accountable, and professional. I am continuing to build and grow my skills in Computer Science, CyberSecurity, and math. I always protect confidentiality and adhere to regulatory compliance by taking ownership of my work. I'm [assionate about safeguarding organizations, data, and people.
 I took Java-based computer science I and II several years ago, and about a year of information systems (Web development and structured programming).
 I also took a digital circuits course several years ago.
 I'm currently working on a Zombie Arena game based on the tutorial in the book Beginning C++ Game Programming by John Horton. This summer, I completed a game, which I called Rapunzel, based on the first tutorial in this book for a game called Timber!
