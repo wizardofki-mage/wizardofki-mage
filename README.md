@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm currently pursuing an Associate's degree in Computer Science to transfer to a four-year university. Courses I have taken include Programming Concepts and Methodology in C++ I and II, assembly language, and discrete structures.
-As part of my degree path, I'm also taking a lot of math, and I just earned an 'A' in Calculus I.
+As part of my degree path, I'm also taking a lot of math, and I earned an 'A' in Calculus I. I am taking Calculus II this semester.
 I'm detail-oriented, accurate, accountable, and professional. I am continuing to build and grow my skills in Computer Science, CyberSecurity, and math. I always protect confidentiality and adhere to regulatory compliance by taking ownership of my work. I'm passionate about safeguarding organizations, data, and people.
 I took Java-based computer science I and II several years ago, and about a year of information systems (Web development and structured programming).
 I also took a digital circuits course several years ago.
