@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I recently completed my Associate's Degree in Computer Science to transfer to a four-year university. Courses I have taken include Programming Concepts and Methodology in C++ I and II, assembly language, and discrete structures.
+I recently completed my Associate's Degree in Computer Science to transfer to a four-year university. Courses I have taken include Programming Concepts and Methodology in C++ I and II, Assembly Language, and Discrete Structures.
 As part of my degree path, I'm also taking a lot of math, and I earned an 'A' in Calculus I and II.
 I'm detail-oriented, accurate, accountable, and professional. I am continuing to build and grow my skills in Computer Science, CyberSecurity, and math. I always protect confidentiality and adhere to regulatory compliance by taking ownership of my work. I'm passionate about safeguarding organizations, data, and people.
 I took Java-based computer science I and II several years ago, and about a year of information systems (Web development and structured programming). I am currently reviewing Java to become proficient at it again.
